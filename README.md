@@ -1,6 +1,7 @@
 # Makersbnb
-Week 5 group project for Makers.
-This is a web app to list and book spaces.
+This was a week 5 group project for Makers I worked on with [Isobel Peppiatt](https://github.com/isobelpepp), [Matt Firmston](https://github.com/YoFirmy), [James Condon](https://github.com/JEC1100), [Karim Abu-Seer](https://github.com/karimabuseer) and [Sibel Eren](https://github.com/senoodle).
+
+It's a web app to list and book spaces.
 
 ## Setting up the project
 1. Clone this repo
